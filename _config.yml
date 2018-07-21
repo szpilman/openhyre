@@ -1,0 +1,10 @@
+title : The Open Hyre
+description: 'Open source Python task board for starters'
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+plugins: [jekyll-gist]
+permalink: /:year/:title.html
